@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EAM1",
-    "currentPage": "index.html",
+    "currentPage": "projetos.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -567,7 +567,7 @@
           },
           "title2": "RESPONSIVE",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
           "media3": {
             "image": {
               "active": true,
@@ -591,7 +591,7 @@
           },
           "title3": "WEB FONTS",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
           "media4": {
             "image": {
               "active": true,
