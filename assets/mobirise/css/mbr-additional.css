@@ -1,13 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
 
 #ext_menu-0 {
 .mbr-brand__name {
 	font-size: 16px;
 }
 &.mbr-navbar--stuck .mbr-navbar__section {
-	background: #2c2c2c;
+	background: #231f20;
 }
 .mbr-navbar__section {
-	background: #2c2c2c;
+	background: #231f20;
 }
 .mbr-navbar__hamburger {
 	color: #ffffff;
@@ -71,13 +73,6 @@ P {
 }
 }
 
-#footer1-2 {
-P {
-	text-align: center;
-	color: #d1d3d4;
-}
-}
-
 #contacts1-h {
 B {
 	color: #d1d3d4;
@@ -86,6 +81,15 @@ P {
 	color: #d1d3d4;
 }
 }
+
+#footer1-j {
+P {
+	text-align: center;
+	color: #d1d3d4;
+	font-family: 'Roboto', sans-serif;
+}
+}
+
 #ext_menu-i .mbr-brand__name {
   font-size: 16px;
 }
@@ -101,6 +105,7 @@ P {
 #footer1-j P {
   text-align: center;
   color: #d1d3d4;
+  font-family: 'Roboto', sans-serif;
 }
 #contacts1-k B {
   color: #d1d3d4;
@@ -108,6 +113,7 @@ P {
 #contacts1-k P {
   color: #d1d3d4;
 }
+
 #ext_menu-l .mbr-brand__name {
   font-size: 16px;
 }
@@ -123,6 +129,7 @@ P {
 #footer1-m P {
   text-align: center;
   color: #d1d3d4;
+  font-family: 'Roboto', sans-serif;
 }
 #contacts1-n B {
   color: #d1d3d4;
@@ -130,6 +137,7 @@ P {
 #contacts1-n P {
   color: #d1d3d4;
 }
+
 #ext_menu-o .mbr-brand__name {
   font-size: 16px;
 }
@@ -145,6 +153,21 @@ P {
 #footer1-p P {
   text-align: center;
   color: #d1d3d4;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-1c .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #eb6b56;
+}
+#content5-1c .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1c .mbr-article {
+  color: #eb6b56;
+}
+#content5-1c .mbr-article P {
+  color: #eb6b56;
 }
 #contacts1-q B {
   color: #d1d3d4;
@@ -152,6 +175,7 @@ P {
 #contacts1-q P {
   color: #d1d3d4;
 }
+
 #ext_menu-r .mbr-brand__name {
   font-size: 16px;
 }
@@ -167,6 +191,7 @@ P {
 #footer1-s P {
   text-align: center;
   color: #d1d3d4;
+  font-family: 'Roboto', sans-serif;
 }
 #contacts1-t B {
   color: #d1d3d4;
@@ -194,5 +219,60 @@ P {
   color: #d1d3d4;
 }
 #contacts1-w P {
+  color: #d1d3d4;
+}
+
+#ext_menu-1d .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #231f20;
+}
+#ext_menu-1d .mbr-navbar__section {
+  background: #231f20;
+}
+#ext_menu-1d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-1e P {
+  text-align: center;
+  color: #d1d3d4;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts1-1f B {
+  color: #d1d3d4;
+}
+#contacts1-1f P {
+  color: #d1d3d4;
+}
+
+#ext_menu-1n .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #231f20;
+}
+#ext_menu-1n .mbr-navbar__section {
+  background: #231f20;
+}
+#ext_menu-1n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-1o P {
+  text-align: center;
+  color: #d1d3d4;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box1-1u .mbr-header .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box1-1u .mbr-article {
+  color: #fff;
+}
+#contacts1-1p B {
+  color: #d1d3d4;
+}
+#contacts1-1p P {
   color: #d1d3d4;
 }
