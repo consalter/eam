@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "EAM1",
-    "currentPage": "proj-educacao.html",
+    "currentPage": "proj-alamedaeuropa.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/eam-logos-09-cpia-128x128.png",
     "noImageResize": ""
@@ -1540,47 +1540,6 @@
       },
       "components": [
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/studcnt-2000x926.jpg",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Slide 1",
-                "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/proj-educ-02-2000x987.jpg",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Slide 1",
-                "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#ffffff",
-            "showBullets": true
-          },
-          "_anchor": "slider-1l",
-          "articleLayout": false
-        },
-        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1659,6 +1618,47 @@
             "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2017 E.A.M. Construtora e Incorporadora &nbsp;LTDA.</p>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/studcnt-2000x926.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/proj-educ-02-2000x987.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-1x",
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -1824,6 +1824,8 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/proj-alam-eur-02-2000x1335.jpg",
                 "contentAlign": "left",
+                "overlay": true,
+                "overlayOpacity": "0.1",
                 "showTitle": false,
                 "title": "Slide 3",
                 "showText": false,
@@ -1835,7 +1837,8 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/proj-alam-eur-03-2000x1335.jpg",
                 "contentAlign": "left",
-                "overlay": false,
+                "overlay": true,
+                "overlayOpacity": "0.1",
                 "showTitle": false,
                 "title": "Slide 3",
                 "showText": false,
@@ -1847,7 +1850,8 @@
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/proj-alam-eur-04-2000x1335.jpg",
                 "contentAlign": "left",
-                "overlay": false,
+                "overlay": true,
+                "overlayOpacity": "0.1",
                 "showTitle": false,
                 "title": "Slide 3",
                 "showText": false,
@@ -1860,7 +1864,7 @@
             "bgColor": "#ffffff",
             "showBullets": true
           },
-          "_anchor": "slider-1t",
+          "_anchor": "slider-1y",
           "articleLayout": false
         },
         {
