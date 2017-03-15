@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EAM1",
-    "currentPage": "index.html",
+    "currentPage": "proj-educacao.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1631,7 +1631,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/studcnt-2000x926.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
@@ -1642,7 +1642,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/proj-educ-02-2000x987.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
